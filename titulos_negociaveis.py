@@ -7,7 +7,7 @@ def getItems(zipPath, file):
     p = []
     e = set()
     for l in f:
-        if str(l[0:2]).encode("utf-8") == '02':
+        if l[0:2] == '02':
             o = rzf.decode_line(l, layouts.tip_neg_layout)
             if o['codmer'] == '010':
                 e.add(o['codempr'])

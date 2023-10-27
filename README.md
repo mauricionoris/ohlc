@@ -47,7 +47,7 @@ To get started with the OHLC Analysis repository:
 
 6. Use the provided Jupyter notebooks to analyze OHLC data, visualize trends, and gain insights into price movements.
 
-# Explanation of Jupyter Notebooks
+# Explanation of Jupyter Notebooks (TODO)
 The notebooks/ directory contains a collection of Jupyter notebooks that cover various OHLC analysis techniques. Here's an explanation of some of the key notebooks:
 
 OHLC_Basic_Analysis.ipynb: This notebook provides a basic introduction to OHLC data and demonstrates how to load and visualize it. It covers common price chart types like candlestick charts and line charts.
